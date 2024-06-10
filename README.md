@@ -20,8 +20,8 @@ Create a business card; Minimalistic, modern and elegant.
 
 ### Screenshot
 
-- Desktop Version: (./design/desktop-FINAL.jpg)
-- Mobile Version: (./design/mobile-FINAL.jpg)
+- Desktop Version: [Desktop Version](./design/desktop-FINAL.jpg)
+- Mobile Version: [Mobile Version](./design/mobile-FINAL.jpg)
 
 ### Links
 
