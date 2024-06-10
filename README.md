@@ -1,7 +1,3 @@
-Basado en el código HTML y CSS que proporcionaste, así como el template del README, aquí tienes el README para tu proyecto:
-
----
-
 # Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -9,12 +5,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
@@ -25,15 +20,13 @@ Create a business card; Minimalistic, modern and elegant.
 
 ### Screenshot
 
-![Screenshot](./design/desktop-FINAL.jpg)
-![Screenshot](./design/)
+![Desktop Version](./design/desktop-FINAL.jpg)
+![Mobile Version](./design/mobile-FINAL.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [solution code](https://github.com/erceppi/blog-preview-card)
+- Live Site URL: [live site](http://erceppi.github.io/blog-preview-card/)
 
 ### Built with
 
@@ -75,7 +68,6 @@ During this project, I enhanced my skills in structuring semantic HTML and styli
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- GitHub - [Claudio Ceppi](https://github.com/erceppi)
 - Frontend Mentor - [@erceppi](https://www.frontendmentor.io/profile/erceppi)
-- GitHub - [erceppi](https://github.com/erceppi)
 
