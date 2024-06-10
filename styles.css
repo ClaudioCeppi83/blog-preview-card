@@ -1,0 +1,97 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* Global */
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-family: "Figtree", sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5rem;
+}
+
+p {
+    font-size: 1.4rem;
+    color: hsl(0, 0%, 50%);
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    gap: 2.4rem;
+    background-color: hsl(0, 0%, 100%);
+    max-width: 32.7rem 48rem;
+    padding: 2.4rem;
+    margin: 0 auto;
+    border: solid;
+    border-radius: 1.5rem;
+    border-color: hsl(0, 0%, 7%);
+    border-width: 0.1rem;
+    box-shadow: 1rem 1rem black;
+}
+
+h1, h2 {
+color: hsl(0, 0%, 7%);
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+}
+
+/** Card image **/
+
+.card__image {
+    border-radius: 1rem;
+}
+
+/** Card Block **/
+
+.card__block {
+    line-height: 150%;
+    margin: 0;
+}
+
+.card__block--category {
+    display: inline-block;
+    background-color: hsl(47, 88%, 63%);
+    padding: 0.4rem 1.2rem;
+    border-radius: 0.5rem;
+}
+
+.card__block--date {
+    font-weight: 400;
+}
+
+.card__block--category, .card__block--date, .card__block--title, .card__block--description {
+    margin: 0;
+    margin-top: 1.2rem;
+}
+
+.card__author {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2.4rem;
+}
+.card__author img {
+    width: 3.2rem;
+    height: 3.2rem;
+}
