@@ -40,7 +40,7 @@ img {
     border-radius: 1.5rem;
     border-color: hsl(0, 0%, 7%);
     border-width: 0.1rem;
-    box-shadow: 1rem 1rem black;
+    box-shadow: 1rem 1rem hsl(0, 0%, 7%);;
 }
 
 h1, h2 {
@@ -94,4 +94,9 @@ h2 {
 .card__author img {
     width: 3.2rem;
     height: 3.2rem;
+}
+
+.card__author p {
+    color: hsl(0, 0%, 7%);;
+    font-weight: 700;
 }
