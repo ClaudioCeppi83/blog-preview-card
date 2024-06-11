@@ -70,4 +70,4 @@ During this project, I enhanced my skills in structuring semantic HTML and styli
 
 - GitHub - [Claudio Ceppi](https://github.com/ClaudioCeppi83)
 - Frontend Mentor - [@erceppi](https://www.frontendmentor.io/profile/erceppi)
-
+- Instagram - [@erceppi.DEV](https://www.instagram.com/erceppi.dev/)
