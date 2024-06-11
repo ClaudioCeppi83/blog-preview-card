@@ -25,8 +25,8 @@ Create a business card; Minimalistic, modern and elegant.
 
 ### Links
 
-- Solution URL: [solution code](https://github.com/erceppi/blog-preview-card)
-- Live Site URL: [live site](http://erceppi.github.io/blog-preview-card/)
+- Solution URL: [solution code](https://github.com/ClaudioCeppi83/blog-preview-card)
+- Live Site URL: [live site](http://ClaudioCeppi83.github.io/blog-preview-card/)
 
 ### Built with
 
@@ -68,6 +68,6 @@ During this project, I enhanced my skills in structuring semantic HTML and styli
 
 ## Author
 
-- GitHub - [Claudio Ceppi](https://github.com/erceppi)
+- GitHub - [Claudio Ceppi](https://github.com/ClaudioCeppi83)
 - Frontend Mentor - [@erceppi](https://www.frontendmentor.io/profile/erceppi)
 
